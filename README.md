@@ -27,8 +27,8 @@ To get started, follow these steps:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/password-manager.git
-   cd password-manager
+   git clone https://github.com/your-username/AI-Powered-Password-Manager.git
+   cd AI-Powered-Password-Manager
 
 2. **Install Dependencies**
 - Ensure you have Python 3.8+ installed, then install the necessary libraries:
