@@ -1,7 +1,7 @@
 <h1 align="center"> 🛡️ AI-Powered Password Manager 🛡️ </h1>
 
 
-![AI-Powered Password Manager](https://img.shields.io/badge/AI%2DPowered%20Password%20Manager-blue?style=for-the-badge&logo=security)
+[![AI-Powered Password Manager](https://img.shields.io/badge/AI%2DPowered%20Password%20Manager-blue?style=for-the-badge&logo=security)](https://ai-powered-password-manager-nxmseazjnqwkgmwj3mxtht.streamlit.app/)
 
 ## ![Overview](https://img.shields.io/badge/Overview-📖-blue?style=for-the-badge)
 
